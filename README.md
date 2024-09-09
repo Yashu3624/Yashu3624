@@ -1,4 +1,4 @@
-[[![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083399)](https://github.com/Yashu3624/)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://github.com/Yashu3624/)
 
 <h1 align="center">Hi 👋, I'm Yaswini</h1>
 <h3 align="center">I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️</h3>
@@ -8,8 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashu3624&label=Profile%20views&color=0e75b6&style=flat" alt="yashu3624" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashu3624" alt="yashu3624" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **yaswinipriya3624@gmail.com**
 
@@ -34,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashu3624&show_icons=true&locale=en" alt="yashu3624" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashu3624&" alt="yashu3624" /></p>
-](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
