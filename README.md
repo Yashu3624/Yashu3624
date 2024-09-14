@@ -25,8 +25,14 @@
 </p>
 <h3 align="left">My LeetCode Badges:</h3>
 <p align="left">
-  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-annual-50.gif" alt="LeetCode 2022 Annual Badge" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode 2024 Badge" width="120" height="120" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode 2024-100-new Badge" width="120" height="120" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 2024-50 Badge" width="120" height="120" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="LeetCode 2023-100 Badge" width="120" height="120" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="LeetCode 2023-50 Badge" width="120" height="120" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2023.gif" alt="LeetCode 2023 Badge" width="120" height="120" />
 </p>
+
 
 
 
