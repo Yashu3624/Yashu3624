@@ -25,10 +25,9 @@
 </p>
 <h3 align="left">My LeetCode Badges:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=LeetCode%20Easy&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/YOUR_LEETCODE_USERNAME" alt="LeetCode Easy Badge" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=yellow&label=LeetCode%20Medium&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/YOUR_LEETCODE_USERNAME" alt="LeetCode Medium Badge" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=red&label=LeetCode%20Hard&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/YOUR_LEETCODE_USERNAME" alt="LeetCode Hard Badge" />
+  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-annual-50.gif" alt="LeetCode 2022 Annual Badge" />
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
